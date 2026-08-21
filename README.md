@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Selvalakshmi%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20%26%20Aspiring%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B3FA6,100:8E4BB0&height=140&section=header&text=Selvalakshmi%20K&fontSize=38&fontColor=fff&fontAlignY=40&desc=Java%20%2B%20Spring%20Boot%20Developer%20%7C%20Aspiring%20Full%20Stack%20Engineer&descSize=15&descAlignY=65" width="100%" alt="header banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Selvalakshmi+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Biomedical+Engineering+%2B+Software+Dev;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&background=0D1117&center=true&vCenter=true&width=750&height=45&lines=Hi+there%2C+I'm+Selvalakshmi+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Biomedical+Engineering+%2B+Software+Dev;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ### 🚀 About Me
 
@@ -74,22 +74,22 @@ public class Selvalakshmi {
 
 <div align="center">
 <a href="https://github.com/Selvalakshmi-K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Selvalakshmi-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Selvalakshmi-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Selvalakshmi's GitHub stats"/>
 </a>
 <a href="https://github.com/Selvalakshmi-K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvalakshmi-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvalakshmi-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Selvalakshmi's top languages"/>
 </a>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Selvalakshmi-K&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=Selvalakshmi-K&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub streak stats"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvalakshmi-K&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvalakshmi-K&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub activity graph"/>
 </div>
 
-> **If any card above shows broken:** these are free community-hosted services (Vercel/demolab) that occasionally sleep or rate-limit. Right-click → open the image URL directly in a new tab — if it loads there, it just needs a hard refresh on the profile page (GitHub caches these aggressively). If a URL is genuinely dead, the fix is to fork and self-host `github-readme-stats` / `github-readme-streak-stats` on your own free Vercel account, which resolves it permanently.
+> **If any card above shows broken:** these are free community-hosted services (Vercel/demolab) that occasionally sleep or rate-limit. Right-click → open the image URL directly in a new tab — if it loads there, it just needs a hard refresh on the profile page (GitHub caches these aggressively, sometimes for hours). If a URL is genuinely dead, the permanent fix is to fork and self-host `github-readme-stats` / `github-readme-streak-stats` on your own free Vercel account.
 
 ---
 
@@ -97,7 +97,7 @@ public class Selvalakshmi {
 
 <div align="center">
 <a href="https://leetcode.com/Selvalakshmi_K">
-  <img src="https://leetcard.jacoblin.cool/Selvalakshmi_K?theme=dark&font=Fira%20Code&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Selvalakshmi_K?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
 </a>
 </div>
 
@@ -106,7 +106,7 @@ public class Selvalakshmi {
 ### 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Selvalakshmi-K&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Selvalakshmi-K&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub trophies"/>
 </div>
 
 ---
@@ -202,4 +202,4 @@ public class Selvalakshmi {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer banner"/>
