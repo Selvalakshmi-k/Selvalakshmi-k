@@ -89,6 +89,18 @@ public class Selvalakshmi {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvalakshmi-K&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
+> **If any card above shows broken:** these are free community-hosted services (Vercel/demolab) that occasionally sleep or rate-limit. Right-click → open the image URL directly in a new tab — if it loads there, it just needs a hard refresh on the profile page (GitHub caches these aggressively). If a URL is genuinely dead, the fix is to fork and self-host `github-readme-stats` / `github-readme-streak-stats` on your own free Vercel account, which resolves it permanently.
+
+---
+
+### 🧩 LeetCode Stats
+
+<div align="center">
+<a href="https://leetcode.com/Selvalakshmi_K">
+  <img src="https://leetcard.jacoblin.cool/Selvalakshmi_K?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</a>
+</div>
+
 ---
 
 ### 🏆 Trophy Wall
