@@ -14,23 +14,28 @@
 public class Selvalakshmi {
 
     private String name = "Selvalakshmi K";
-    private String location = "Tamil Nadu, India";
+    private String location = "Tirupur, Tamil Nadu, India";
     private String degree = "B.E. Biomedical Engineering";
 
-    private String[] skills = {
-        "Java", "Spring Boot", "REST APIs",
-        "MySQL", "HTML", "CSS", "DSA"
+    private String[] stack = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "DSA"
     };
 
-    private String[] interests = {
+    private String[] currentlyLearning = {
         "Full Stack Development",
-        "Backend Development",
-        "Software Development"
+        "Spring Boot",
+        "Database Management",
+        "System Design"
     };
 
-    public String achievement() {
-        return "1st Rank Holder — Academic Years 2024 & 2025 🏆";
-    }
+    private String funFact =
+        "1st Rank Holder — Academic Years 2024 & 2025 🏆";
 
     public String motto() {
         return "Learn. Build. Improve. Repeat.";
@@ -48,7 +53,7 @@ public class Selvalakshmi {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 
-**Backend**
+**Frameworks & Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square\&logo=fastapi\&logoColor=white)
@@ -57,6 +62,19 @@ public class Selvalakshmi {
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+**Core Computer Science**
+
+![DSA](https://img.shields.io/badge/DSA-70A5FD?style=flat-square\&logo=leetcode\&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-8B5CF6?style=flat-square\&logo=java\&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-38BDAE?style=flat-square\&logo=databricks\&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-BF91F3?style=flat-square\&logo=linux\&logoColor=white)
+
+**Cloud & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 
 **Databases**
 
@@ -64,12 +82,11 @@ public class Selvalakshmi {
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square\&logo=eclipseide\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
 ---
 
@@ -78,16 +95,18 @@ public class Selvalakshmi {
 <div align="center">
 
 <a href="https://github.com/Selvalakshmi-K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Selvalakshmi-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Selvalakshmi-K&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 
 <a href="https://github.com/Selvalakshmi-K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvalakshmi-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selvalakshmi-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
 
-<br>
+---
+
+### 🔥 Contribution Streak
 
 <div align="center">
 
@@ -95,23 +114,13 @@ public class Selvalakshmi {
 
 </div>
 
-<br>
+---
+
+### 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Selvalakshmi-K&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-</div>
-
----
-
-### 🧩 LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/Selvalakshmi_K">
-  <img src="https://leetcard.jacoblin.cool/Selvalakshmi_K?theme=dark&font=Fira%20Code&ext=heatmap"/>
-</a>
 
 </div>
 
@@ -127,31 +136,33 @@ public class Selvalakshmi {
 
 ---
 
-### 💼 Internship & Training Experience
+### 💼 Work Experience
 
 <details>
-<summary><b>3D Printing Intern @ Medsby Healthcare and Engineering Solutions</b> — 15 Days</summary>
+<summary><b>3D Printing Intern — Medsby Healthcare and Engineering Solutions</b> | 15 Days</summary>
 
 <br>
 
 > `Python` `Spyder` `Additive Manufacturing` `Hardware-GUI Integration`
 
-* Completed a hands-on internship integrating hardware control with Python-based GUI applications built in Spyder
-* Gained direct exposure to additive manufacturing and 3D printing workflows
-* Bridged hardware operation with software-driven control interfaces
+* Completed a hands-on internship focused on integrating hardware control with Python-based GUI applications.
+* Developed practical experience using Python applications in the Spyder development environment.
+* Gained exposure to additive manufacturing and 3D printing workflows.
+* Explored the integration of software-driven interfaces with hardware operations.
 
 </details>
 
 <details>
-<summary><b>Hospital Training Program @ Revathi Medical Center</b> — Tiruppur — 15 Days</summary>
+<summary><b>Hospital Training Program — Revathi Medical Center</b> | Tiruppur | 15 Days</summary>
 
 <br>
 
-> `Medical Equipment` `Clinical Workflows` `Healthcare Tech`
+> `Medical Equipment` `Clinical Workflows` `Healthcare Technology`
 
-* Gained practical exposure to hospital-grade medical equipment
-* Observed and learned clinical workflows in a live hospital setting
-* Developed an understanding of healthcare technology management practices
+* Gained practical exposure to hospital-grade medical equipment and healthcare technologies.
+* Observed clinical workflows across different hospital departments.
+* Developed an understanding of medical equipment usage and healthcare technology management.
+* Connected biomedical engineering concepts with real-world clinical environments.
 
 </details>
 
@@ -161,11 +172,11 @@ public class Selvalakshmi {
 
 <div align="center">
 
-| Project                                            | Stack                            | Highlights                                                                                 |
-| -------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Wireless Heartbeat Monitoring System**           | Arduino, Pulse Sensor, Blynk IoT | Real-time heartbeat monitoring with vitals transmitted live via the Blynk IoT platform     |
-| **Potassium Detection in Blood Using a pH Sensor** | Arduino, pH Sensor               | Low-cost prototype for potassium-level classification and quick clinical interpretation    |
-| **Password Strength Analyzer**                     | Java                             | Classifies passwords as Weak, Medium, or Strong and provides stronger password suggestions |
+| Project                                                                                 | Stack                            | Highlights                                                                                                                    |
+| --------------------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **[Wireless Heartbeat Monitoring System](https://github.com/Selvalakshmi-K)**           | Arduino, Pulse Sensor, Blynk IoT | Developed a real-time heartbeat monitoring prototype for remotely tracking vital signs through the Blynk IoT platform.        |
+| **[Potassium Detection in Blood Using a pH Sensor](https://github.com/Selvalakshmi-K)** | Arduino, pH Sensor               | Built a low-cost, minimally invasive prototype and classified readings into normal, hypokalemia, and hyperkalemia categories. |
+| **[Password Strength Analyzer](https://github.com/Selvalakshmi-K)**                     | Java                             | Analyzes passwords as Weak, Medium, or Strong and provides stronger password suggestions with instant feedback.               |
 
 </div>
 
@@ -175,14 +186,14 @@ public class Selvalakshmi {
 
 <div align="center">
 
-|    | Achievement                                | Details                                                           |
-| -- | ------------------------------------------ | ----------------------------------------------------------------- |
-| 🏆 | **1st Rank Holder**                        | Highest overall academic performance — Academic Years 2024 & 2025 |
-| 📜 | **NPTEL Certified**                        | Java Programming — 2025                                           |
-| 📘 | **Spring Boot 3 Essential Training**       | LinkedIn Learning — Instructor Frank P. Moley III — 2026          |
-| 🎤 | **Leadership Development Webinar**         | 7-day program by IDHAYAM — 2023                                   |
-| 🎓 | **ICT Youth Talk — Pre-Regional Finalist** | Certificate of Participation — 2024 & 2025                        |
-| 💻 | **24-Hour Hackathon**                      | College-level Hackathon — 2026                                    |
+| 🏅 | Achievement                                | Details                                                               |
+| -- | ------------------------------------------ | --------------------------------------------------------------------- |
+| 🏆 | **1st Rank Holder**                        | Highest overall academic performance — **Academic Years 2024 & 2025** |
+| 📜 | **NPTEL Certified**                        | **Java Programming — 2025**                                           |
+| 📘 | **Spring Boot 3 Essential Training**       | LinkedIn Learning — Instructor **Frank P. Moley III — 2026**          |
+| 🎤 | **Leadership Development Webinar**         | Completed a **7-day** program offered by IDHAYAM — 2023               |
+| 🎓 | **ICT Youth Talk — Pre-Regional Finalist** | Selected as a **Pre-Regional Finalist** in **2024 & 2025**            |
+| 💻 | **24-Hour Hackathon**                      | Participated in a **24-hour college-level hackathon — 2026**          |
 
 </div>
 
@@ -192,32 +203,40 @@ public class Selvalakshmi {
 
 <div align="center">
 
-| Degree                          | Institution                           | Year                   | Score         |
-| ------------------------------- | ------------------------------------- | ---------------------- | ------------- |
-| **B.E. Biomedical Engineering** | DR NGP Institute of Technology        | 2023 – 2027 (Expected) | **CGPA 9.24** |
-| **Class 12**                    | VK Government Higher Secondary School | 2022 – 2023            | **85.5%**     |
-| **Class 10**                    | VK Government Higher Secondary School | 2020 – 2021            | **100%**      |
+| Degree                          | Institution                           | Year        | Score         |
+| ------------------------------- | ------------------------------------- | ----------- | ------------- |
+| **B.E. Biomedical Engineering** | DR NGP Institute of Technology        | 2023 – 2027 | **CGPA 9.24** |
+| **Class 12**                    | VK Government Higher Secondary School | 2022 – 2023 | **85.5%**     |
+| **Class 10**                    | VK Government Higher Secondary School | 2020 – 2021 | **100%**      |
 
 </div>
 
 ---
 
-### 📚 Currently Exploring
+### 📚 Currently Learning
 
 ```text
 🧱 Full Stack Development     → Java, Spring Boot, REST APIs, Frontend Integration
-🗄️ Database Management        → MySQL, Schema Design, Query Optimization
-💻 Software Development       → DSA, OOPs, System Design Fundamentals
+🗄️ Database Management        → MySQL, DBMS, Schema Design, Query Optimization
+💻 Software Development       → DSA, OOP, System Design Fundamentals
+🌐 Web Development             → HTML, CSS, DOM Manipulation
 ```
 
 ---
 
-### 📫 Reach Me
+### 💡 Areas of Interest
+
+`Full Stack Development` · `Backend Development` · `Database Management` · `Software Development`
+
+---
+
+### 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/selvalakshmi-k-b17938290)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:kselvalakshmi85@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Selvalakshmi-K)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/Selvalakshmi_K)
 
 <br>
